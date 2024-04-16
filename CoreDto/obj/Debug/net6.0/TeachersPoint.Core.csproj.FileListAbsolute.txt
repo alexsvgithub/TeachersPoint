@@ -1,0 +1,12 @@
+D:\TeachersPoint\CoreDto\bin\Debug\net6.0\TeachersPoint.Core.deps.json
+D:\TeachersPoint\CoreDto\bin\Debug\net6.0\TeachersPoint.Core.dll
+D:\TeachersPoint\CoreDto\bin\Debug\net6.0\TeachersPoint.Core.pdb
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\TeachersPoint.Core.csproj.AssemblyReference.cache
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\TeachersPoint.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\TeachersPoint.Core.AssemblyInfoInputs.cache
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\TeachersPoint.Core.AssemblyInfo.cs
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\TeachersPoint.Core.csproj.CoreCompileInputs.cache
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\TeachersPoint.Core.dll
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\refint\TeachersPoint.Core.dll
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\TeachersPoint.Core.pdb
+D:\TeachersPoint\CoreDto\obj\Debug\net6.0\ref\TeachersPoint.Core.dll

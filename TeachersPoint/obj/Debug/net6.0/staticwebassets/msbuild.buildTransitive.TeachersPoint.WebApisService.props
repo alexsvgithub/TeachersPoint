@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TeachersPoint.WebApisService.props" />
+</Project>

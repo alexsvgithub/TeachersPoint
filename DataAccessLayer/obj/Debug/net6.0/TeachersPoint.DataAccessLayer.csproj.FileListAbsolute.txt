@@ -1,0 +1,12 @@
+D:\TeachersPoint\DataAccessLayer\bin\Debug\net6.0\TeachersPoint.DataAccessLayer.deps.json
+D:\TeachersPoint\DataAccessLayer\bin\Debug\net6.0\TeachersPoint.DataAccessLayer.dll
+D:\TeachersPoint\DataAccessLayer\bin\Debug\net6.0\TeachersPoint.DataAccessLayer.pdb
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.csproj.AssemblyReference.cache
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.AssemblyInfoInputs.cache
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.AssemblyInfo.cs
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.dll
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\refint\TeachersPoint.DataAccessLayer.dll
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.pdb
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\ref\TeachersPoint.DataAccessLayer.dll

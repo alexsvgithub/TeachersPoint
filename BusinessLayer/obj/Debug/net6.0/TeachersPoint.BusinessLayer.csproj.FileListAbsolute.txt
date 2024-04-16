@@ -1,0 +1,17 @@
+D:\TeachersPoint\BusinessLayer\bin\Debug\net6.0\TeachersPoint.BusinessLayer.deps.json
+D:\TeachersPoint\BusinessLayer\bin\Debug\net6.0\TeachersPoint.BusinessLayer.dll
+D:\TeachersPoint\BusinessLayer\bin\Debug\net6.0\TeachersPoint.BusinessLayer.pdb
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\TeachersPoint.BusinessLayer.csproj.AssemblyReference.cache
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\TeachersPoint.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\TeachersPoint.BusinessLayer.AssemblyInfoInputs.cache
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\TeachersPoint.BusinessLayer.AssemblyInfo.cs
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\TeachersPoint.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\TeachersPoint.BusinessLayer.dll
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\refint\TeachersPoint.BusinessLayer.dll
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\TeachersPoint.BusinessLayer.pdb
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\ref\TeachersPoint.BusinessLayer.dll
+D:\TeachersPoint\BusinessLayer\bin\Debug\net6.0\TeachersPoint.Core.dll
+D:\TeachersPoint\BusinessLayer\bin\Debug\net6.0\TeachersPoint.DataAccessLayer.dll
+D:\TeachersPoint\BusinessLayer\bin\Debug\net6.0\TeachersPoint.Core.pdb
+D:\TeachersPoint\BusinessLayer\bin\Debug\net6.0\TeachersPoint.DataAccessLayer.pdb
+D:\TeachersPoint\BusinessLayer\obj\Debug\net6.0\TeachersPoint.BusinessLayer.csproj.CopyComplete

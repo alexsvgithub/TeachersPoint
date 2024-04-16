@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d1keT0K3LZbEriA/7pX+DhZgzXBcObJhAY9dnPF0QzA=",
+  "Source": "TeachersPoint.WebApisService",
+  "BasePath": "_content/TeachersPoint.WebApisService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
