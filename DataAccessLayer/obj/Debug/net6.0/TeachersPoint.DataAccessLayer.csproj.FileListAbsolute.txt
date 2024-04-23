@@ -10,3 +10,6 @@ D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.
 D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\refint\TeachersPoint.DataAccessLayer.dll
 D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.pdb
 D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\ref\TeachersPoint.DataAccessLayer.dll
+D:\TeachersPoint\DataAccessLayer\bin\Debug\net6.0\TeachersPoint.Core.dll
+D:\TeachersPoint\DataAccessLayer\bin\Debug\net6.0\TeachersPoint.Core.pdb
+D:\TeachersPoint\DataAccessLayer\obj\Debug\net6.0\TeachersPoint.DataAccessLayer.csproj.CopyComplete

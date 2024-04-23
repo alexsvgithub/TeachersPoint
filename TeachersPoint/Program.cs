@@ -3,6 +3,8 @@ using MongoDB.Driver;
 using System.Xml.Linq;
 using TeachersPoint.BusinessLayer.Implementation;
 using TeachersPoint.BusinessLayer.Interface;
+using TeachersPoint.DataAccessLayer.Implementation;
+using TeachersPoint.DataAccessLayer.Interface;
 using TeachersPoint.Core.RequestDto;
 using Microsoft.Extensions.Configuration;
 using System.Configuration;
@@ -21,6 +23,8 @@ namespace TeachersPoint
 
             // Add services to the container.
             builder.Services.AddScoped<ITestService, TestService>();
+            builder.Services.AddScoped<IUserAuthorization, UserAuthorization>();
+            builder.Services.AddScoped<ISqlQueryResolver, SqlQueryResolver>();
 
             #region Adding Service for MongoDB Connection
                 //Adding Service for MongoDB Connection
