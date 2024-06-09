@@ -24,6 +24,7 @@ namespace TeachersPoint
             // Add services to the container.
             builder.Services.AddScoped<ITestService, TestService>();
             builder.Services.AddScoped<IUserAuthorization, UserAuthorization>();
+            builder.Services.AddScoped<IDataOperaitonsService, DataOperationsService>();
             builder.Services.AddScoped<ISqlQueryResolver, SqlQueryResolver>();
 
             #region Adding Service for MongoDB Connection
